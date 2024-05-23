@@ -1,0 +1,15 @@
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('José Silva', '132.834.780-07', '3500.0', '2000-04-14', 1);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Maria Aparecida', '811.506.100-00', '6700.0', '2002-10-19', 3);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('João Toledo', '023.747.030-61', '6250.0', '1995-02-11', 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Leonardo Sobrinho ', '013.091.400-22', '8050.0', '2004-09-05', 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Marcos Beltrão', '524.922.200-52', '4100.0', '2001-12-18', 2);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Andressa Esteves', '658.724.700-88', '3300.0', '1999-04-12', 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Alberto Rosa', '192.374.890-48', '2400.0', '1979-01-17', 1);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Mara Pascoal', '727.178.700-32', '9200.0', '1984-10-04', 3);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Isabel Ortiz', '458.478.760-33', '2450.0', '1990-12-08', 2);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Jeferson Domingues', '273.515.980-96', '5900.0', '1992-06-03', 2);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Tais Correia', '893.199.000-60', '7100.0', '1996-11-22', 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Gabriel Pena', '993.925.510-10', '2300.0', '1999-10-15', 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Cristine Pereira', '087.116.490-62', '7200.0', '1982-04-10', 1);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Manuela Dias', '972.688.340-71', '10500.0', '1978-03-27', 2);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('André Filho', '481.917.490-84', '3250.0', '2002-08-04', 2);
